@@ -25,6 +25,18 @@
 }
 
 .characterWrapper {
+  position: fixed;
+  top: 15%;
+  left: 60%;
+  bottom: 5%;
+  min-height: 500px;
+  /*
+
+  For fixed gap
+
+  left: 50%;
+  margin-left: 32px;
+  */
 }
 
 .controlColumn {
